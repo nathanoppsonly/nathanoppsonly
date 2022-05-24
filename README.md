@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nathanoppsonly
-- 👀 I’m interested in AWS(Cloud Computing)/Databse
+- 👀 I’m interested in AWS(Cloud Computing)/Database
 - 🌱 I’m currently learning Big Data
 - 💞️ I’m looking to collaborate on anything related to my interrest but also open to anything new
 - 📫 How to reach me @ nathanoppsonly@gmail.com
